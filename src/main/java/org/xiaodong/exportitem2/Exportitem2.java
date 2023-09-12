@@ -52,7 +52,7 @@ import java.io.IOException;
 import java.util.stream.Collectors;
 
 // The value here should match an entry in the META-INF/mods.toml file
-@Mod("exportitem2")
+@Mod("BetterShow")
 public class Exportitem2 {
 
     // Directly reference a log4j logger.
