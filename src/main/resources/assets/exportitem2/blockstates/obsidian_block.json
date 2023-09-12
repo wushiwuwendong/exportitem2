@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "exportitem2:block/obsidian_block_model" }
+  }
+}

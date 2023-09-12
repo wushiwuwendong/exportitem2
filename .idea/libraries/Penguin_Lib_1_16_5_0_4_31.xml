@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Penguin-Lib-1.16.5-0.4.31">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build/libs/Penguin-Lib-1.16.5-0.4.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/libs/Shopaholic-1.16.5-1.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,12 @@
+[10九月2023 14:35:39.036] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--mod, exportitem2, --all, --output, E:\a花痴\exportitem2\src\generated\resources, --existing, E:\a花痴\exportitem2\src\main\resources, --gameDir, ., --launchTarget, fmluserdevdata, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge, --fml.forgeVersion, 36.2.39, --assetIndex, 1.16, --assetsDir, C:\Users\xiaodong\.gradle\caches\forge_gradle\assets]
+[10九月2023 14:35:39.041] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 8.1.3+8.1.3+main-8.1.x.c94d18ec starting: java version 1.8.0_372 by Temurin
+[10九月2023 14:35:39.785] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[10九月2023 14:35:39.838] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/C:/Users/xiaodong/.gradle/caches/modules-2/files-2.1/org.spongepowered/mixin/0.8.4/4ec7d77d9ab32596ca0b78bb123956734767e3a/mixin-0.8.4.jar Service=ModLauncher Env=CLIENT
+[10九月2023 14:35:39.891] [main/WARN] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Configuration file E:\a花痴\exportitem2\run-data\config\fml.toml is not correct. Correcting
+[10九月2023 14:35:39.898] [main/WARN] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [defaultConfigPath] was corrected from null to defaultconfigs
+[10九月2023 14:35:41.392] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmluserdevdata' with arguments [--gameDir, ., --assetsDir, C:\Users\xiaodong\.gradle\caches\forge_gradle\assets, --mod, exportitem2, --all, --output, E:\a花痴\exportitem2\src\generated\resources, --existing, E:\a花痴\exportitem2\src\main\resources, --assetIndex, 1.16]
+[10九月2023 14:35:41.490] [main/INFO] [net.minecraftforge.fml.DatagenModLoader/]: Initializing Data Gatherer for mods [exportitem2]
+[10九月2023 14:35:49.657] [modloading-worker-2/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 36.2.39, for MC 1.16.5 with MCP 20210115.111550
+[10九月2023 14:35:49.696] [modloading-worker-2/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v36.2.39 Initialized
+[10九月2023 14:35:50.125] [main/INFO] [org.xiaodong.exportitem2.Exportitem2/]: HELLO from Register Block
+[10九月2023 14:35:50.615] [main/INFO] [net.minecraft.data.DataGenerator/]: All providers took: 0 ms

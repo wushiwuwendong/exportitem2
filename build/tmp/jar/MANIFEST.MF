@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: exportitem2
+Implementation-Version: org.xiaodong
+Specification-Vendor: xiaodong
+Specification-Title: exportitem2
+Implementation-Timestamp: 2023-09-12T11:17:23+0800
+Specification-Version: 1
+Implementation-Vendor: xiaodong
+

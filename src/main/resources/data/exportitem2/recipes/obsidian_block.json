@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#J#",
+    "J#J",
+    "#J#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:oak_planks"
+    },
+    "J": {
+      "item": "minecraft:oak_log"
+    }
+  },
+  "result": {
+    "item": "exportitem2:obsidian_block",
+    "count": 1
+  }
+}
